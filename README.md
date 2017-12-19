@@ -57,8 +57,8 @@ A curated list of image denoising resources and a benchmark for image denoising 
    
 #### Combined with High-Level Tasks
  * Meets High-level Tasks [[PDF]](https://arxiv.org/pdf/1706.04284.pdf)
-   * When Image Denoising Meets High-Level Vision Tasks: A Deep Learning Approach, Ding Liu (Arxiv2017), Bihan Wen, Xianming Liu, Thomas S. Huang.
- * Class-Specific Denoising [[PDF]](https://arxiv.org/pdf/1706.02867.pdf)
+   * When Image Denoising Meets High-Level Vision Tasks: A Deep Learning Approach (Arxiv2017), Ding Liu, Bihan Wen, Xianming Liu, Thomas S. Huang.
+ * Class-Specific Denoising [[PDF]](https://arxiv.org/pdf/1706.02867.pdf) [[Code]](https://github.com/wenbihan/DeepDenoising) 
    * Class-Specific Poisson Denoising By Patch-Based Importance Sampling (Arxiv2017), Milad Niknejad, Jose M. Bioucas-Dias, Mario A. T. Figueiredo.
    
 #### Benchmark
