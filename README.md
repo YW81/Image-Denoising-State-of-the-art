@@ -12,8 +12,6 @@ A curated list of image denoising resources and a benchmark for image denoising 
 #### Sparse Coding
  * KSVD [[Web]](http://www.cs.technion.ac.il/~ronrubin/software.html) [[Code]](https://github.com/jbhuang0604/SelfSimSR/tree/master/Lib/KSVD) [[PDF]](http://www.egr.msu.edu/~aviyente/elad06.pdf)
    * Image Denoising Via Sparse and Redundant Representations Over Learned Dictionaries (TIP2006), Elad et al.
- * SAINT [[Web]](http://see.xidian.edu.cn/faculty/wsdong/wsdong_Publication.htm) [Code] [[PDF]](http://see.xidian.edu.cn/faculty/wsdong/Papers/Journal/TIP_LASSC.pdf)
-   * Nonlocal image restoration with bilateral variance estimation: a low-rank approach (TIP2013), Dong et al.
  * NCSR [[Web]](http://www4.comp.polyu.edu.hk/~cslzhang/NCSR.htm) [[Code]](http://www4.comp.polyu.edu.hk/~cslzhang/code/NCSR.rar) [[PDF]](http://www4.comp.polyu.edu.hk/~cslzhang/paper/NCSR_TIP_final.pdf)
    * Nonlocally Centralized Sparse Representation for Image Restoration (TIP2012), Dong et al.
  * LSSC [[Web]](http://www.di.ens.fr/~fbach/) [Code] [[PDF]](http://www.di.ens.fr/~fbach/iccv09_mairal.pdf)
@@ -32,6 +30,8 @@ A curated list of image denoising resources and a benchmark for image denoising 
    * A Faster Patch Ordering Method for Image Denoising, Badre Munir.
    
 #### Low Rank
+ * SAIST [[Web]](http://see.xidian.edu.cn/faculty/wsdong/wsdong_Publication.htm) [Code] [[PDF]](http://see.xidian.edu.cn/faculty/wsdong/Papers/Journal/TIP_LASSC.pdf)
+   * Nonlocal image restoration with bilateral variance estimation: a low-rank approach (TIP2013), Dong et al.
  * WNNM [[Web]](https://sites.google.com/site/shuhanggu/home) [[Code]](http://www4.comp.polyu.edu.hk/~cslzhang/code/WNNM_code.zip) [[PDF]](https://pdfs.semanticscholar.org/6d55/6272625b672ba54b5ab3d9e6474088a4b78f.pdf)
    * Weighted Nuclear Norm Minimization with Application to Image Denoising (CVPR2014), Gu et al.
  * Multi-channel Weighted Nuclear Norm [[PDF]](https://arxiv.org/pdf/1705.09912.pdf)
@@ -56,9 +56,9 @@ A curated list of image denoising resources and a benchmark for image denoising 
    * Learning Pixel-Distribution Prior with Wider Convolution for Image Denoising (Arxiv2017), Peng Liu, Ruogu Fang.
    
 #### Combined with High-Level Tasks
- * Meets High-level Tasks [[PDF]](https://arxiv.org/pdf/1706.04284.pdf)
+ * Meets High-level Tasks [[PDF]](https://arxiv.org/pdf/1706.04284.pdf) [[Code]](https://github.com/wenbihan/DeepDenoising) 
    * When Image Denoising Meets High-Level Vision Tasks: A Deep Learning Approach (Arxiv2017), Ding Liu, Bihan Wen, Xianming Liu, Thomas S. Huang.
- * Class-Specific Denoising [[PDF]](https://arxiv.org/pdf/1706.02867.pdf) [[Code]](https://github.com/wenbihan/DeepDenoising) 
+ * Class-Specific Denoising [[PDF]](https://arxiv.org/pdf/1706.02867.pdf)
    * Class-Specific Poisson Denoising By Patch-Based Importance Sampling (Arxiv2017), Milad Niknejad, Jose M. Bioucas-Dias, Mario A. T. Figueiredo.
    
 #### Benchmark
