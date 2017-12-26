@@ -16,18 +16,14 @@ A curated list of image denoising resources and a benchmark for image denoising 
    * Nonlocally Centralized Sparse Representation for Image Restoration (TIP2012), Dong et al.
  * LSSC [[Web]](http://www.di.ens.fr/~fbach/) [Code] [[PDF]](http://www.di.ens.fr/~fbach/iccv09_mairal.pdf)
    * Non-local Sparse Models for Image Restoration (ICCV2009), Mairal et al.
+ * GSR [[Web]](https://jianzhang.tech/projects/GSR/) [[Code]](http://csjianzhang.github.io/codes/GSR_Code_Package_3.0.zip) [[PDF]](http://csjianzhang.github.io/papers/TIP2014_single.pdf)
+   * Group-based Sparse Representation for Image Restoration (TIP2014), Zhang et al.
   
 #### Effective Prior
  * EPLL [[Web]](https://people.csail.mit.edu/danielzoran/) [[Code]](https://people.csail.mit.edu/danielzoran/epllcode.zip) [[PDF]](http://people.ee.duke.edu/~lcarin/EPLICCVCameraReady.pdf)
    * From Learning Models of Natural Image Patches to Whole Image Restoration (ICCV2011), Zoran et al.
- * Bayesian Hyperprior [[PDF]](https://arxiv.org/pdf/1706.03261.pdf)
-   * A Bayesian Hyperprior Approach for Joint Image Denoising and Interpolation with an Application to HDR Imaging, Cecilia Aguerrebere, Andres Almansa, Julie Delon, Yann Gousseau and Pablo Muse.
- * External Prior Guided [[PDF]](https://arxiv.org/pdf/1705.04505.pdf)
-   * External Prior Guided Internal Prior Learning for Real Noisy Image Denoising, Jun Xu, Lei Zhang, and David Zhang.
- * Multi-Layer Image Representation [[PDF]](https://arxiv.org/pdf/1707.02194.pdf)
-   * A Multi-Layer Image Representation Using Regularized Residual Quantization: Application to Compression and Denoising, Sohrab Ferdowsi, Slava Voloshynovskiy, Dimche Kostadinov.
- * A Faster Patch Ordering [[PDF]](https://arxiv.org/ftp/arxiv/papers/1704/1704.08090.pdf)
-   * A Faster Patch Ordering Method for Image Denoising, Badre Munir.
+ * GHP [[Web]][[Code]](https://github.com/tingfengainiaini/GHPBasedImageRestoration) [[PDF]](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Zuo_Texture_Enhanced_Image_2013_CVPR_paper.pdf)
+   * Texture Enhanced Image Denoising via Gradient Histogram Preservation (CVPR2013), Zuo et al.
    
 #### Low Rank
  * SAIST [[Web]](http://see.xidian.edu.cn/faculty/wsdong/wsdong_Publication.htm) [Code] [[PDF]](http://see.xidian.edu.cn/faculty/wsdong/Papers/Journal/TIP_LASSC.pdf)
